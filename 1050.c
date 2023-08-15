@@ -1,5 +1,5 @@
-//Problem no-1049
-//https://www.beecrowd.com.br/judge/en/problems/view/1049
+//Problem no-1050
+//https://www.beecrowd.com.br/judge/en/problems/view/1050
 
 #include<stdio.h>
 int main(){
