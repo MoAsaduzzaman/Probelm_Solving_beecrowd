@@ -1,7 +1,6 @@
 //Problem no-2006
 //https://www.beecrowd.com.br/judge/en/problems/view/2006
 
-//Way-1
 #include<stdio.h>
 int main(){
     int T,arr[5],i,sum=0;
