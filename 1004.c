@@ -8,6 +8,6 @@ int main(){
     scanf("%d %d ",&a,&b);
     int PROD = a * b ;
 
-    printf("PROD = %d\n", PROD);
+    printf("PROD = %d\n", PROD); 
     return 0;
 }
