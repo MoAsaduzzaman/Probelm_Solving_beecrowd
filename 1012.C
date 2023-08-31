@@ -19,5 +19,5 @@ int main(){
     printf("QUADRADO: %.3lf\n",sqr);
     printf("RETANGULO: %.3lf\n",rectang);
 
-    return 0;
+    return 0; 
 }
